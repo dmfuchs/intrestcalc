@@ -1,0 +1,32 @@
+html{
+    color: white;
+}
+
+body{
+    font-family: sans-serif;
+}
+.container{
+    background-color: black;
+    justify-content: center;
+    align-content: auto;
+    text-align: center;
+}
+#form{
+    color: blanchedalmond;
+
+}
+.intField{
+    width: 30px;
+    
+}
+.randAmount{
+    width: 100px;
+}
+.intrestCalc{
+    margin: 30px
+}
+#calcAmount{
+    padding: 20px;
+    margin: 3px;
+    font-size: 30px;
+}
