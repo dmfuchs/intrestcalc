@@ -8,5 +8,5 @@ document.getElementById("intrestCalc").onclick = function (){
     let intrest = i.toFixed(2)
 
 
- document.getElementById("calcAmount").innerHTML = 'R' + intrest;
+ document.getElementById("calcAmount").innerHTML = 'R ' + intrest;
 }
